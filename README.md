@@ -2,7 +2,7 @@
 
 # Hi there, I'm Advika Beejawat 👋
 
-### 💻 Aspiring Computer Science Student • 📱 Swift Developer • 🚀 STEM Educator
+### 💻 Aspiring Computer Science Student • 📱 Software Developer • 🚀 STEM Educator
 
 *"Building technology that makes a difference."*
 
