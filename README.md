@@ -70,8 +70,7 @@ A responsive portfolio website introducing who I am, my interests, and achieveme
 
 ### Volunteer Oppurtunity Finder
 
-Problem: Many struggle to find a place that they want to volunteer at and are unable to discover opportunities they truly enjoy
-Solution: An app to help people, specifically high school students, find organizations that they are interested to volunteer at using filters, a location API, and advanced UI (Built together with one of my peers).
+An app to help people, specifically high school students, find organizations that they are interested to volunteer at using filters, a location API, and advanced UI (Built together with one of my peers).
 
 ---
 
